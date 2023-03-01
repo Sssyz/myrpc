@@ -1,0 +1,15 @@
+/home/song/projects/myrpc/build/CMakeFiles/rebuild_cache.dir
+/home/song/projects/myrpc/build/CMakeFiles/edit_cache.dir
+/home/song/projects/myrpc/build/src/CMakeFiles/rebuild_cache.dir
+/home/song/projects/myrpc/build/src/CMakeFiles/edit_cache.dir
+/home/song/projects/myrpc/build/src/CMakeFiles/mprpc.dir
+/home/song/projects/myrpc/build/example/CMakeFiles/rebuild_cache.dir
+/home/song/projects/myrpc/build/example/CMakeFiles/edit_cache.dir
+/home/song/projects/myrpc/build/example/caller/CMakeFiles/rebuild_cache.dir
+/home/song/projects/myrpc/build/example/caller/CMakeFiles/edit_cache.dir
+/home/song/projects/myrpc/build/example/caller/CMakeFiles/consumer2.dir
+/home/song/projects/myrpc/build/example/caller/CMakeFiles/consumer.dir
+/home/song/projects/myrpc/build/example/callee/CMakeFiles/rebuild_cache.dir
+/home/song/projects/myrpc/build/example/callee/CMakeFiles/edit_cache.dir
+/home/song/projects/myrpc/build/example/callee/CMakeFiles/provider2.dir
+/home/song/projects/myrpc/build/example/callee/CMakeFiles/provider.dir

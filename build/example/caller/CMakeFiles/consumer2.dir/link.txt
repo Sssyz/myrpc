@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/consumer2.dir/callfriendservice.cc.o CMakeFiles/consumer2.dir/__/friend.pb.cc.o  -o ../../../bin/consumer2   -L/home/song/projects/myrpc/lib  -Wl,-rpath,/home/song/projects/myrpc/lib ../../../lib/libmprpc.a -lprotobuf -lmuduo_net -lmuduo_base -lpthread -lzookeeper_mt 
